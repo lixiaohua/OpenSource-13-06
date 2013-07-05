@@ -1,4 +1,4 @@
-GY3学生名录
+﻿GY3学生名录
 ========
 Renoshen  沈宽
 luzizhuo  周小璐
@@ -29,3 +29,4 @@ xihongsheng 席宏盛
 zwy440 赵伟影
 insomniahang 张奕航
 qinannmj 齐楠 
+lixiaohua 李晓华
